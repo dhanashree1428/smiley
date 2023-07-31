@@ -1,0 +1,41 @@
+#parent{
+    border: 5px solid black;
+    width: 300px;
+    height: 300px;
+   border-radius: 500px;
+   margin-left: 400px;
+   margin-top: 60px;
+   background-color: yellow;
+    
+}
+
+   #a{
+    border: 2px solid black;
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin: 60px;
+background-color: black;
+}
+
+#b{
+    border: 2px solid black;
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    background-color: black;
+    margin: 180px;
+    margin-top: -110px;
+    }
+
+    #c{
+    border: 2px solid black;
+    width: 175px;
+    height: 60px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    margin-left: 60px;
+    margin-top: -120px;
+
+    
+    }
